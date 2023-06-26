@@ -1,0 +1,2 @@
+This will contain the classes responsible for fetching the data like news, categories, etc from the
+services class, storing the data, and updating the state based on the data.
